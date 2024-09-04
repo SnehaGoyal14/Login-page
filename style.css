@@ -178,5 +178,7 @@ a:hover{
     }
     .Forgot, .register{
         font-size: small;
-    }   
+        text-align: center;
+        white-space: nowrap;
+    }  
 }
